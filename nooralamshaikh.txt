@@ -19,7 +19,7 @@ Entrepreneurial Mindset. Startup Enthusiast.<br>Experienced iOS Application Deve
 <span><i>Swift 4, MVC, Realm</i></span>
 ------
 <span><a href="https://apps.apple.com/us/app/id1458719802" target="_blank">Shapoorji Customer Application - Real Estate Customer App</a></span>
-<span><i>SWift 4, MVC, Realm</i></span>
+<span><i>Swift 4, MVC, Realm</i></span>
 ------
 <span><a href="https://apps.apple.com/in/app/crowdwisdom360-experts-app/id1446894568" target="_blank">CrowdWisdom360 Experts App - Quiz App</a></span>
 <span><i>Swift 4, MVC</i></span>
