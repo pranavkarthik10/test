@@ -1,4 +1,4 @@
-<span id="a">visitor@armashfankar</span>:<span id="b">~</span><span id="c">$</span> <br/><br/>
+<span id="a">visitor@nooralamshaikh</span>:<span id="b">~</span><span id="c">$</span> <br/><br/>
 Hi, I'm Nooralam Shaikh.<br> iOS Application Developer at Sunday Mobility</p>
 
 <p ><span style="font-weight:bold;font-size: 18px;">About Me :</span><br>
@@ -7,7 +7,7 @@ Entrepreneurial Mindset. Startup Enthusiast.<br>Experienced iOS Application Deve
 
 <p ><span style="font-weight:bold;font-size: 18px;">Experience :</span><br>
 <span>iOS Application Developer</span>
-<span><i>ToFlo Fintech Consulting Pvt Ltd</i></span>
+<span><i>Sunday Mobility</i></span>
 <span>June 2018 - Present (1 Year 2 Months)</span>
 <Br>
 </p>
