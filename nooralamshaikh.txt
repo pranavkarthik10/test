@@ -1,5 +1,5 @@
-<span id="a">visitor@nooralamshaikh</span>:<span id="b">~</span><span id="c">$</span> <br/><br/>
-Hi, I'm Nooralam Shaikh.<br> iOS Application Developer at Sunday Mobility</p>
+<span id="a">visitor@pranavkarthik</span>:<span id="b">~</span><span id="c">$</span> <br/><br/>
+Hi, I'm Pranav Karthik.<br> iOS Developer | WWDC19 Scholarship Winner</p>
 
 <p ><span style="font-weight:bold;font-size: 18px;">About Me :</span><br>
 Entrepreneurial Mindset. Startup Enthusiast.<br>Experienced iOS Application Developer with a demonstrated history of working in the real estate, eCommerce and international event industry. Skilled in Swift, Objective-C, Cocoa, MVC, VIPER, MVP. Professional with a bachelor's degree focused in Computer Engineering from Mumbai University. </p>
